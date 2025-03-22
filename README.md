@@ -23,7 +23,7 @@ win10toast (Windows Notifications)
 
 🚀 How to Run
 1. Clone this repository:
-git clone https://github.com/pankaj-9575/jarvis-assistant.git
+git clone [https://github.com/pankaj-9575/jarvis-assistant.git](https://github.com/pankaj-9575/Jarvis-)
 cd jarvis-assistant
 
 2.Install the required packages:
